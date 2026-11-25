@@ -7,6 +7,10 @@
 <p align="center">Build applications that connect to Beni robots over your local network.</p>
 
 <p align="center">
+  <a href="https://github.com/Mondo-Robotics/awesome-beni"><img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome Beni"></a>
+</p>
+
+<p align="center">
   <a href="docs/MONDO%20SDK%20User%20Guide.en.md">User Guide</a> ·
   <a href="docs/protocol-reference.en.md">Protocol Reference</a> ·
   <a href="docs/hms-fault-codes.en.md">Fault Codes</a> ·
